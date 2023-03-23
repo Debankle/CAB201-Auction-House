@@ -1,0 +1,15 @@
+/Users/oliverpinel/Programming/QUT/CAB201/CAB201_Assignment_2021_S2_n11028891/Assignment/bin/Debug/net6.0/Assignment
+/Users/oliverpinel/Programming/QUT/CAB201/CAB201_Assignment_2021_S2_n11028891/Assignment/bin/Debug/net6.0/Assignment.deps.json
+/Users/oliverpinel/Programming/QUT/CAB201/CAB201_Assignment_2021_S2_n11028891/Assignment/bin/Debug/net6.0/Assignment.runtimeconfig.json
+/Users/oliverpinel/Programming/QUT/CAB201/CAB201_Assignment_2021_S2_n11028891/Assignment/bin/Debug/net6.0/Assignment.dll
+/Users/oliverpinel/Programming/QUT/CAB201/CAB201_Assignment_2021_S2_n11028891/Assignment/bin/Debug/net6.0/Assignment.pdb
+/Users/oliverpinel/Programming/QUT/CAB201/CAB201_Assignment_2021_S2_n11028891/Assignment/obj/Debug/net6.0/Assignment.csproj.AssemblyReference.cache
+/Users/oliverpinel/Programming/QUT/CAB201/CAB201_Assignment_2021_S2_n11028891/Assignment/obj/Debug/net6.0/Assignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oliverpinel/Programming/QUT/CAB201/CAB201_Assignment_2021_S2_n11028891/Assignment/obj/Debug/net6.0/Assignment.AssemblyInfoInputs.cache
+/Users/oliverpinel/Programming/QUT/CAB201/CAB201_Assignment_2021_S2_n11028891/Assignment/obj/Debug/net6.0/Assignment.AssemblyInfo.cs
+/Users/oliverpinel/Programming/QUT/CAB201/CAB201_Assignment_2021_S2_n11028891/Assignment/obj/Debug/net6.0/Assignment.csproj.CoreCompileInputs.cache
+/Users/oliverpinel/Programming/QUT/CAB201/CAB201_Assignment_2021_S2_n11028891/Assignment/obj/Debug/net6.0/Assignment.dll
+/Users/oliverpinel/Programming/QUT/CAB201/CAB201_Assignment_2021_S2_n11028891/Assignment/obj/Debug/net6.0/refint/Assignment.dll
+/Users/oliverpinel/Programming/QUT/CAB201/CAB201_Assignment_2021_S2_n11028891/Assignment/obj/Debug/net6.0/Assignment.pdb
+/Users/oliverpinel/Programming/QUT/CAB201/CAB201_Assignment_2021_S2_n11028891/Assignment/obj/Debug/net6.0/Assignment.genruntimeconfig.cache
+/Users/oliverpinel/Programming/QUT/CAB201/CAB201_Assignment_2021_S2_n11028891/Assignment/obj/Debug/net6.0/ref/Assignment.dll
